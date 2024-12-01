@@ -12,3 +12,6 @@ var task2 = "task2";
 
 //task3
 var task3 = "task3";
+
+//featureX
+var featureX = "featureX";
